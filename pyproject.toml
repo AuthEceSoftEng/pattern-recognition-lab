@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pattern recognition lab"
+name = "pattern-recognition-lab"
 version = "0.1.0"
 description = ""
 authors = ["Michail Papamichail <mapamic@issel.ee.auth.gr>"]
